@@ -4,13 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "gulp": "gulp"
+    "gulp": "gulp watch"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "gulp": "^4.0.0",
-    "gulp-cli": "^2.0.1",
+    "gulp-sourcemaps": "^2.6.4",
     "gulp-typescript": "^5.0.0",
     "typescript": "^3.2.4"
   }
